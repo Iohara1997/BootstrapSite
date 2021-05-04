@@ -1,0 +1,32 @@
+#sobre{
+    background-color: rgb(66, 62, 62);
+    color: whitesmoke;
+    font-family: 'Girassol', cursive;
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 150px;
+}
+ h5 {
+     font-family: sans-serif;
+ }
+
+#contato{
+    background-color: rgb(66, 62, 62);
+    color: whitesmoke;
+    font-family: 'Girassol', cursive;
+}
+
+#HQ{
+    background-color: rgb(66, 62, 62);
+    color: whitesmoke;
+    font-family: 'Girassol', cursive;
+}
+
+.bg-footer{
+    background-color: rgb(66, 62, 62);
+    color: whitesmoke;
+    padding-bottom: 5px
+}
+
